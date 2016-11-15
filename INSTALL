@@ -1,0 +1,9 @@
+Building REGA
+
+See doc/readme-qt.rst for instructions on building REGA-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of REGA.
+
+See doc/build-*.txt for instructions on building REGAd,
+the intended-for-services, no-graphical-interface, reference
+implementation of REGA.
